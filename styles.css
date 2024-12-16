@@ -1,0 +1,21 @@
+.container{
+    height: 400px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+    justify-content: space-between;
+    
+}
+
+.box{
+    background-color: black;
+    flex: 1;
+    flex: auto;
+}
